@@ -1,0 +1,12 @@
+code.literal {
+	color: black !important;
+}
+
+a.reference code.literal {
+	color: #9B59B6 !important;
+}
+	
+a.reference em {
+	color: #9B59B6; !important;
+	font-weight: bold !important;
+}
